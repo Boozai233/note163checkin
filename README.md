@@ -27,4 +27,5 @@ Actions > note163Checkin > build
 ![](http://note.youdao.com/yws/public/resource/17edb8861d2106a5c39ec94d91919150/xmlnote/48958A4994D64C20867281B67B7CDAFD/1059)
 
 此后，将会在每天10:00签到一次  
-若有需求，可以在[.github/workflows/main.yml]中自行修改
+若有需求，可以在[.github/workflows/main.yml]中自行修改   
+
